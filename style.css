@@ -1,0 +1,92 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+body {
+    font-family: "Faculty Glyphic"
+}
+.cabecalho {
+    background-color: magenta;
+    color: black;
+    justify-content: center;
+    padding-left: 50px;
+    padding-right: 50px;
+    align-items: center;
+}
+
+.cabeçalho-div{
+    align-items: center;
+    justify-content: center;
+}
+
+.cabecalho-imagem{
+    width: 20%;
+    padding: 50px;
+}
+
+.nome-titulo{
+    color: black(255, 255, 255);
+    justify-content: center;
+}
+
+.cabecalho-lista-item a{
+    text-decoration: none; 
+    color: black;
+}
+
+#sobremim{
+    background-image: linear-gradient(magenta,magenta);
+    color:black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 30px 50px;
+}
+
+.sobremim-div-conteudo{
+    width: 35%;
+}
+
+
+.sobremim-titulo{
+    padding: 24px 0;
+}
+
+#redes{
+    padding: 24px 0;
+    background-color: magenta;
+    color: black;
+}
+
+
+.redes-imagem{
+    width: 120px;
+}
+
+.redes-icone{
+    width: 24px;
+    padding: 4px 8px;
+}
+
+.redes-div{
+    text-align: center;
+    padding: 16px 0;
+}
+
+.redes-titulo{
+    text-align: center;
+    padding: 50px 50px;
+}
+
+.redes-todos{
+   padding: 30px 50px;
+}
+
+.rodape{
+
+    background-color: magenta;
+    padding: 30px 100px;
+    text-align: center;
+    font-size: 16px;
+}
